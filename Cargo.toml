@@ -1,0 +1,7 @@
+[package]
+name = "crisp"
+version = "0.1.0"
+edition = "2021"
+authors = ["Collin O'Connor <collinoconnor2@gmail.com>"]
+
+[dependencies]
